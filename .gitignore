@@ -1,0 +1,7 @@
+# Never publish client data or secrets
+*creds*.txt
+*.csv
+*.docx
+logged work*/
+old version/
+rss/
