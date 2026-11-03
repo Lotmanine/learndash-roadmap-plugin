@@ -1,5 +1,7 @@
 # LearnDash Roadmap Enhanced
 
+[![Lint](https://github.com/Lotmanine/learndash-roadmap-plugin/actions/workflows/lint.yml/badge.svg)](https://github.com/Lotmanine/learndash-roadmap-plugin/actions/workflows/lint.yml)
+
 A custom WordPress plugin that turns a LearnDash course catalog into a **visual, gamified roadmap** and wires it into a real membership/CRM stack: **LearnDash + Memberium + Keap**.
 
 > Adapted from a real client engagement. Client name, domain, author, and all client data have been removed. The code is the deliverable; this is a sanitized showcase copy.
