@@ -31,6 +31,15 @@ WordPress · PHP 8.x · LearnDash · Memberium · Keap (CRM) · Elementor · cus
 
 Copy `ld-roadmap.php` into `wp-content/plugins/learndash-roadmap-plugin/` (or drop it as a single-file plugin) and activate. Requires LearnDash and Memberium for full functionality.
 
+## Author
+
+Built by **Lotfi Otmanine**, senior WordPress developer at [OLDEV](https://oldev.site).
+
+- Website: [oldev.site](https://oldev.site)
+- Hire me on Upwork: [upwork.com/freelancers/~01bd748fcb665b90ca](https://www.upwork.com/freelancers/~01bd748fcb665b90ca)
+- LinkedIn: [linkedin.com/in/lotfi-otmanine](https://www.linkedin.com/in/lotfi-otmanine)
+- GitHub: [github.com/Lotmanine](https://github.com/Lotmanine)
+
 ## License
 
 GPL-2.0-or-later.
